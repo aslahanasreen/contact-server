@@ -1,0 +1,23 @@
+{
+  "contacts": [
+    {
+      "id": 2,
+      "name": "Aslaha Nasreen",
+      "phone": "1234567890",
+      "email": "aslaha@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Shuhaib C",
+      "phone": "3456723456",
+      "email": "shalu@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Hamda Jannath",
+      "phone": "8923456787",
+      "email": "hamda1@gmail.com"
+    }
+  ],
+  "favourites": []
+}
